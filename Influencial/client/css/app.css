@@ -1,0 +1,28 @@
+﻿.content-wrapper {
+    margin: auto;
+    background-color: #F5F7FA;
+    min-height: 1230px;
+    transition: padding 250ms ease;
+}
+
+.content-wrapper > .content {
+    z-index: 7;
+    padding: 15px;
+    background-color: #F5F7FA;
+    min-height: inherit;
+}
+
+.footer-wrapper {
+    position: relative;
+    padding-left: 230px;
+    z-index: 8;
+    transition: padding 250ms ease;
+}
+
+.footer-wrapper > .footer {
+        padding: 15px;
+}
+
+.img-medium {
+    height:250px;
+}

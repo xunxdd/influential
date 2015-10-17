@@ -1,0 +1,11 @@
+﻿<header id="header" data-ng-include="'template/header.html'"></header>
+<section class="content-wrapper">
+
+    <section class="content" data-ng-controller="influencerController as vm">
+        <influencer-gallary title="Fashion" influencers="vm.fashionInfluencers" ></influencer-gallary>
+        <influencer-gallary title="Food" influencers="vm.foodInfluencers"></influencer-gallary>
+        <influencer-gallary title="Arts" influencers="vm.artInfluencers"></influencer-gallary>
+
+        </section>
+    </section>
+    <footer id="footer" data-ng-include="'template/footer.html'"></footer>

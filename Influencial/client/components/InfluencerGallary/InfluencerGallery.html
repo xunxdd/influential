@@ -1,0 +1,15 @@
+﻿ 
+<div class="row">
+    <h3>{{title}}</h3>
+
+    <div data-ng-repeat="influencer in influencers" class="col-md-2">
+        <div class="panel panel-lined mb30">
+            <a ui-sref="influencerdetail({ id:{{influencer.Id}} })">
+                <div class=" panel-body text-center">
+                    <p class="text-uppercase text-bold">{{influencer.Name}}</p>
+                    <img class="img-thumbnail img-medium" src="images/{{influencer.image}}" />
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
