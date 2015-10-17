@@ -2600,7 +2600,9 @@
     <Content Include="client\js\vendor\modernizr-2.8.3.min.js" />
     <Content Include="client\template\footer.html" />
     <Content Include="client\template\header.html" />
-    <Content Include="client\views\index.html" />
+    <Content Include="client\views\arts.html" />
+    <Content Include="client\views\fashion.html" />
+    <Content Include="client\views\influencerdetails.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
