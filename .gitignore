@@ -14,6 +14,11 @@ x64/
 build/
 [Bb]in/
 [Oo]bj/
+bin/Debug/*.exe
+bin/Debug/*.pdb
+obj/
+*.exe
+*.pdb
 
 # NuGet Packages
 *.nupkg
