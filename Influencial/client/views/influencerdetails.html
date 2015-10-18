@@ -1,6 +1,118 @@
-﻿<header id="header" data-ng-include="'template/header.html'"></header>
-<section class="content-wrapper">
+﻿<section class="content-wrapper">
+    <section class="content" data-ng-controller="influencerDetailController as vm">
 
-   gaglag ;ag a;gd dka t;ag a;g a;g
+        <div class="row">
+            <h2>Statistics <small>Yep, there is a lot going on.</small></h2>
+        </div>
+
+
+        <div class="row">
+            <div class="col-md-8">
+
+                <div class="panel panel-padding30 panel-twitter">
+
+                    <div class="row">
+                        <div class="col-xs-3 text-center">
+                            <img class="thumbnail-o thumbnail-lg" alt=""
+                                 src="{{vm.twitterUser.ProfileImgurl}}">
+                        </div>
+                        <div class="col-xs-9">
+                            <h3 class="mb0"><i class="fa fa-twitter"></i>{{vm.twitterUser.UserName}} On Twitter</h3>
+                            <p>
+                                <i class="icon icon-fw icon-avatar"></i>Screen Name: {{vm.twitterUser.ScreenName}}
+                            </p>
+                            <p class="ng-binding">
+                                <i class="icon icon-fw icon-email"></i> info@{{vm.twitterUser.Handle}}
+                            </p>
+                            <ul class="user-badges list-unstyled row">
+                                <li class="col-xs-4">
+                                    <i class="fa fa-comment-o text-success"></i>
+                                    <strong>{{vm.twitterUser.FollowerCount}}</strong>
+                                    <button class="btn btn-success btn-sm mt15">Followers</button>
+                                </li>
+                                <li class="col-xs-4">
+                                    <i class="fa fa-heart-o text-primary"></i>
+                                    <strong>{{vm.twitterUser.FriendsCount}}</strong>
+                                    <button class="btn btn-info btn-sm mt15">Friends</button>
+                                </li>
+                                <li class="col-xs-4">
+                                    <i class="fa fa-twitter text-color"></i>
+                                    <strong>{{vm.twitterUser.StatusCount}}</strong>
+                                    <button class="btn btn-primary btn-sm mt15">Total Tweets</button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel panel-padding30 panel-instagram" ng-show="vm.show">
+
+                    <div class="row">
+                        <div class="col-xs-3 text-center">
+                            <img class="thumbnail-o thumbnail-lg" alt="" src="{{vm.instagramUser.ProfilePicture}}">
+                        </div>
+                        <div class="col-xs-9">
+                            <h3 class="mb0"><i class="fa fa-instagram"></i>&nbsp;{{vm.instagramUser.FullName}} on Instagram</h3>
+                            <p>
+                                <i class="icon icon-fw icon-avatar"></i>Instragram User Name: {{vm.instagramUser.Username}}
+                            </p>
+                            <p>
+                                <i class="fa fa-link"></i><a href="{{vm.instagramUser.Website}}">{{vm.instagramUser.Website}}</a>
+                            </p>
+                            <p>
+                                {{vm.instagramUser.Bio}}
+                            </p>
+                            <ul class="user-badges list-unstyled row">
+                                <li class="col-xs-4">
+                                    <i class="fa fa-comment-o text-success"></i>
+                                    <strong>{{vm.instagramUser.FollowedBy}}</strong>
+                                    <button class="btn btn-success btn-sm mt15">Followers</button>
+                                </li>
+                                <li class="col-xs-4">
+                                    <i class="fa fa-heart-o text-primary"></i>
+                                    <strong>{{vm.instagramUser.Follows}}</strong>
+                                    <button class="btn btn-info btn-sm mt15">Following</button>
+                                </li>
+                                <li class="col-xs-4">
+                                    <i class="fa fa-twitter text-color"></i>
+                                    <strong>{{vm.instagramUser.Media}}</strong>
+                                    <button class="btn btn-primary btn-sm mt15">Posts</button>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+           
+                <div class="panel panel-lined mb30">
+                    <div id="tbs-map" style="position: relative; overflow: hidden; transform: translateZ(0px); background-color: rgb(229, 227, 223);">
+                    </div>
+                </div>
+
+                <div class="panel panel-lined mb30">
+                    <div id="bubble-chart-container" class="chart-responsive"></div>
+                </div>
+
+                </div>
+            <div class="col-md-4">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h3 class="panel-title"><i class="fa fa-twitter"></i> Recent Tweets</h3>
+                    </div>
+                    <div class="panel-body">
+                        <div data-ng-repeat="tweet in vm.tweets" class="itemdiv">
+                                <div class="body">
+                                    <div class="date-time"><i class="ace-icon fa fa-clock-o"></i>{{tweet.createdat}}</div>
+                                    <div class="text">
+                                            {{tweet.text}}
+                                    </div>
+                                        <div class="actions">
+                                            <a href="#"> <i class="fa fa-retweet"></i><span class="retweets">{{tweet.retweet}} Retweets</span></a>
+                                            <a href="#"><i class="fa fa-star"></i><span class="favorites">{{tweet.favcount}} Favorites</span></a>
+                                        </div>
+                                </div>
+                            </div>
+                        </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </section>
-<footer id="footer" data-ng-include="'template/footer.html'"></footer>

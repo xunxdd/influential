@@ -130,8 +130,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="client\components\TestModule\TestModule.js" />
     <Content Include="client\css\app.css" />
+    <Content Include="client\css\font-awesome.css" />
     <Content Include="client\InfluencerGallery.html" />
     <Content Include="client\js\app.js" />
     <Content Include="client\bower_components\angular-animate\angular-animate.min.js" />
@@ -2590,11 +2590,11 @@
     <Content Include="client\js\bootstrap.js" />
     <Content Include="client\js\bootstrap.min.js" />
     <Content Include="client\js\config.js" />
+    <Content Include="client\js\controllers\influencerdetails.js" />
     <Content Include="client\js\controllers\main.js" />
     <Content Include="client\components\InfluencerGallary\InfluencerGallery.html" />
     <Content Include="client\components\InfluencerGallary\InfluencerGallery.js" />
-    <Content Include="client\js\donut.js" />
-    <Content Include="client\js\main.js" />
+    <Content Include="client\js\gmaps.js" />
     <Content Include="client\js\services.js" />
     <Content Include="client\js\Template.js" />
     <Content Include="client\js\vendor\modernizr-2.8.3.min.js" />
@@ -2758,8 +2758,9 @@
     <Content Include="client\bower_components\angular-bootstrap\bower.json" />
     <Content Include="client\data\influencer.json" />
     <Content Include="client\data\message.json" />
-    <Content Include="client\data - Copy\influencer.json" />
-    <Content Include="client\data - Copy\message.json" />
+    <Content Include="client\data\twitterusers.json" />
+    <Content Include="client\data\instagramusers.json" />
+    <Content Include="client\data\Tweets.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -2769,6 +2770,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="client\components\Charts\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>

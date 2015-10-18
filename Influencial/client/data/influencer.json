@@ -3,7 +3,8 @@
     "Id": 1,
     "Name":"Chiara Ferragni",
     "Description":"The Blonde Salad",
-    "Blog":"http://www.theblondesalad.com/",
+    "Blog": "http://www.theblondesalad.com/",
+    "BlogUrl": "http://www.theblondesalad.com/",
     "TwitterHandle":"chiaraferragni",
     "InstagramHandle":"chiaraferragni",
     "category":"Fashion",
@@ -42,7 +43,6 @@
   },
     {
               "Id": 5,
-
         "Name": "Julie Sarinana",
         "Description": "Sincerely Jules",
         "Blog": "http://sincerelyjules.com/",
