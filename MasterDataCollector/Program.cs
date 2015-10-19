@@ -113,18 +113,18 @@ namespace MasterDataCollector
                 }
             }
 
-           // CollectTweetUserData();
+            CollectTweetUserData();
            // Console.WriteLine(" user done");
-            //           CollectTweetdata();
-            //           CollectInstagramData();
-            //           CollectInstagramData();
+           // CollectTweetdata();
+            //CollectInstagramData();
+           // CollectInstagramData();
             Console.Read();
         }
 
         private static void CollectTweetUserData()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendFormat("{0};{1};{2};{3}; {4};{5};{6};{7}", "Handle", "UserName", "ScreenName", "ProfileImgurl", "BackgroundImgUrl", "FollowerCount", "FriendsCount", "StatusCount");
+            sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}\t{8}\t{9}", "Handle", "UserName", "ScreenName", "ProfileImgurl", "BackgroundImgUrl", "FollowerCount", "FriendsCount", "StatusCount", "CreatedAt","Description");
             sb.AppendLine("");
  
             
@@ -137,7 +137,7 @@ namespace MasterDataCollector
                     continue;
                 }
                 Console.WriteLine("Fetch data user for " + u);
-                sb.AppendFormat("{0};{1};{2};{3};{4};{5};{6};{7}",
+                sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}\t{8}\t{9}",
                     u,
                     user.Name, 
                     user.ScreenName,
@@ -145,7 +145,9 @@ namespace MasterDataCollector
                     user.ProfileBackgroundImageUrl,
                     user.FollowersCount, 
                     user.FriendsCount,
-                    user.StatusesCount);
+                    user.StatusesCount, 
+                    user.CreatedAt,
+                    user.Description);
                 sb.AppendLine();
 
             }
@@ -174,45 +176,67 @@ namespace MasterDataCollector
             // dummy account data. InstaSharpTest
             _instaAuth.AccessToken = "283159706.1fb234f.b290a83c202d44d4831a1ad03e3471d7";
             Users users = new Users(_instaConfig, _instaAuth);
+            var sb = new StringBuilder();
 
+            sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}\t{8}\t{9}\t{10}", "username", "userid", "createdtime", "caption", "postid", 
+              "thumbnail", "likecount", "lat", "long","link", "hashtags");
             foreach (var h in _instaHandles)
             {
-                var sb = new StringBuilder();
                 UsersResponse result = await users.Search(h, 1);
-                sb.AppendLine("");
+                sb.AppendLine();
+
 
                 if (result.Data.Any())
                 {
                     var r = await users.Get(result.Data[0].Id.ToString());
                     var d = r.Data;
                     Console.WriteLine("{0}{1}", d.Username, d.Id);
-                    // sb.AppendFormat("{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}|{8}", d.Bio, d.Counts.Media, d.Counts.Follows, d.Counts.FollowedBy, d.ProfilePicture, d.Username, d.Id, d.Website, d.FullName);
-
+                   
                     var mediaRs = await users.Recent(d.Id.ToString());
                     var mediaData = mediaRs.Data;
                     foreach (var rs in mediaData)
                     {
-                        sb.AppendFormat("{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}",
-                            rs.Caption,
+                        sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}\t{8}\t{9}\t{10}",
+                            d.Username,
+                            d.Id,
+                            rs.Caption==null?"":rs.Caption.CreatedTime.ToString(),
+                           rs.Caption == null ? "" : rs.Caption.Text,
                             rs.Id,
-                            rs.Images.Thumbnail,
+                            rs.Images.Thumbnail.Url,
                             rs.Likes.Count,
                             rs.Location == null ? 0 : rs.Location.Latitude,
                              rs.Location == null ? 0 : rs.Location.Longitude,
                             rs.Link, String.Join(",", rs.Tags));
+                        sb.AppendLine();
                     }
-                    var str = sb.ToString();
-                    using (StreamWriter sw = File.AppendText(_pathInstaD))
-                    {
-                        sw.WriteLine(str);
-                    }
+                   
+
                 }
+
+             
+            }
+
+            var str = sb.ToString();
+            using (StreamWriter sw = File.AppendText(_pathInstaD))
+            {
+                sw.WriteLine(str);
             }
         }
 
 
         private static void CollectTweetdata()
         {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}",
+                                "username",
+                                "tweetid",
+                                "tweettext",
+                                "RetweetCount",
+                                "FavouriteCount",
+                                "CreatedBy",
+                                "hashtags",
+                                "CreatedAt"
+                                );
             foreach (var u in handles)
             {
                 var user = User.GetUserFromScreenName(u);
@@ -222,8 +246,6 @@ namespace MasterDataCollector
                     continue;
                 }
                 Console.WriteLine("Fetch data for " + u);
-                var fCount = user.FollowersCount;
-                var d = user.FriendsCount;
                 string g = user.Location;
                 IEnumerable<IUser> friends = user.GetFollowers();
                 List<String> locations = friends.Select(f => f.Location).ToList();
@@ -231,16 +253,16 @@ namespace MasterDataCollector
                 locations.AddRange(user.GetFriends().Select(f => f.Location).ToList());
 
                 var timelineTweets = user.GetUserTimeline(40);
-                StringBuilder sb = new StringBuilder();
+              
                 foreach (var tweet in timelineTweets)
                 {
                     sb.AppendLine();
                     StringBuilder hashSb = new StringBuilder();
                     foreach (var h in tweet.Hashtags)
                     {
-                        hashSb.Append(h.Text);
+                        hashSb.Append(h.Text + "|");
                     }
-                    sb.AppendFormat(@"{0}|{1}|{2}|{3}|{4}|{5}|{6}|{7}",
+                    sb.AppendFormat("{0}\t{1}\t{2}\t{3}\t{4}\t{5}\t{6}\t{7}",
                                     u,
                                     tweet.Id,
                                     tweet.Text,
@@ -251,15 +273,21 @@ namespace MasterDataCollector
                                     tweet.CreatedAt
                                     );
                 }
-                // This text is always added, making the file longer over time
+               
+            }
+             // This text is always added, making the file longer over time
                 // if it is not deleted.
                 using (StreamWriter sw = File.AppendText(_pathTwitterD))
                 {
                     sw.WriteLine(sb);
                 }
-            }
 
         }
 
+        private static void TweetTrendAnalysis()
+        {
+
+            
+        }
     }
 }

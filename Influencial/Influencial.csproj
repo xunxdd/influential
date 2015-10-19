@@ -130,9 +130,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="client\bower_components\highcharts-ng\dist\highcharts-ng.js" />
+    <Content Include="client\bower_components\highcharts-ng\dist\highcharts-ng.min.js" />
+    <Content Include="client\components\Charts\ChartConfig.js" />
+    <Content Include="client\components\InstragramPost\InstagramPost.html" />
+    <Content Include="client\components\InstragramPost\InstagramPost.js" />
+    <Content Include="client\components\TagList\Tags.html" />
+    <Content Include="client\components\TagList\Tags.js" />
     <Content Include="client\css\app.css" />
     <Content Include="client\css\font-awesome.css" />
-    <Content Include="client\InfluencerGallery.html" />
+    <Content Include="client\data\InstagramRecentPosts.txt" />
     <Content Include="client\js\app.js" />
     <Content Include="client\bower_components\angular-resource\angular-resource.min.js" />
     <Content Include="client\bower_components\angular-ui-router\release\angular-ui-router.js" />
@@ -153,6 +160,7 @@
     <Content Include="client\images\logo.png" />
     <Content Include="client\index.html" />
     <Content Include="client\js\config.js" />
+    <Content Include="client\js\controllers\industry.js" />
     <Content Include="client\js\controllers\influencerdetails.js" />
     <Content Include="client\js\controllers\main.js" />
     <Content Include="client\components\InfluencerGallary\InfluencerGallery.html" />
@@ -164,6 +172,8 @@
     <Content Include="client\views\arts.html" />
     <Content Include="client\views\fashion.html" />
     <Content Include="client\views\influencerdetails.html" />
+    <Content Include="client\views\influencers.html" />
+    <Content Include="client\views\map.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -218,6 +228,10 @@
     <Content Include="client\data\twitterusers.json" />
     <Content Include="client\data\instagramusers.json" />
     <Content Include="client\data\Tweets.json" />
+    <Content Include="client\data\instagram-recentposts.json" />
+    <Content Include="client\data\instragramsubject.json" />
+    <Content Include="client\data\recenttweets.json" />
+    <Content Include="client\data\tweetsubject.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -227,7 +241,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="client\components\Charts\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>

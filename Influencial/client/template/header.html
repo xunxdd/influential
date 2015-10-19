@@ -7,18 +7,18 @@
                 </a>
             </div>
             <div class="collapse navbar-collapse">
-                <ul class="nav navbar-nav">
-                    <li class="dropdown active">
-                        <a  ui-sref="influencer">Influencers</a>
+                <ul class="nav navbar-nav" >
+                    <li  ui-sref-active="active">
+                        <a ui-sref="influencer">Influencers</a>
                     </li>
-                    <li class="dropdown">
-                        <a  ui-sref="fashion">Fashion</a>
+                    <li ui-sref-active="active">
+                        <a ui-sref="industry({id:1})">Fashion</a>
                     </li>
-                    <li class="dropdown">
-                        <a ui-sref="food">Food</a>
+                    <li ui-sref-active="active">
+                        <a ui-sref="industry({id:2})">Food</a>
                     </li>
                     <li>
-                        <a ui-sref="arts">Arts</a>
+                        <a ui-sref="industry({id:3})">Arts</a>
                     </li>
                 </ul>
                 <div class="pull-right">

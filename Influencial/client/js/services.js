@@ -37,6 +37,40 @@ influential
 
         }
     ])
+     .service('subjectandTagService', [
+        '$resource', function ($resource) {
+            var service = this;
+            
+            service.getInstragramSubjects = function () {
+                return $resource("data/instagramsubject.json");
+            };
+
+            service.getTweetSubjects = function () {
+                return $resource("data/tweetsubject.json");
+            };
+
+            service.getRecentTweets = function () {
+                return $resource("data/recenttweets.json");
+            };
+
+            service.getInstragramRecentPosts = function () {
+                return $resource("data/instagram-recentposts.json");
+            };
+
+            service.getMostRecentPostsByUsers = function (data, uid, dateField) {
+                var match = data.filter(function (itm) { return itm.username == uid; });
+                sortArrayByDateTimeDescending(match, dateField);
+                return match && match.length ? match.splice(0, 9) : null;
+            };
+            service.getHashtagByUsers = function(data, uid, delimiter) {
+                var match = data.filter(function(itm) { return itm.username == uid; });
+                var hash = match.map(function(t) {
+                    return t.hashtags;
+                });
+                return getCleanTags(hash, delimiter);
+            }
+        }
+     ])
     .service('tweetService', [
         '$resource', function($resource) {
             var service = this;
@@ -120,111 +154,62 @@ influential
                 }
             }
         }
-    })
-    .service('chartService', function() {
-        this.setupBubbleChart =function(div, data, timeout) {
-            setTimeout (bubbleChart(div, data), timeout);
+    });
+
+
+function getCleanTags(hash, delimiter) {
+    var hashTags = [];
+    var i, l = hash.length;
+    for (i = 0; i < l; i++) {
+        var tag = hash[i];
+        if (tag && tag.length > 0) {
+
+            hashTags = hashTags.concat(tag.split(delimiter));
         }
+    }
+
+    l = hashTags.length;
+    var cleanTags = [];
+    for (i = 0; i < l; i++) {
+        if (hashTags[i].length > 0) {
+            cleanTags.push(hashTags[i]);
+        }
+    }
+    var counts = arrayElementCount(cleanTags);
+    
+    counts.sort(function (a, b) {
+        var keyA = a.count,
+        keyB = b.count;
+        if (keyA > keyB) return -1;
+        if (keyA < keyB) return 1;
+        return 0;
+    });
+   // console.log(counts);
+    return counts.splice(0,9);
+}
+
+function sortArrayByDateTimeDescending(array, dateField) {
+    array.sort(function (a, b) {
+        var keyA = new Date(a[dateField]),
+        keyB = new Date(b[dateField]);
+        // Compare the 2 dates
+        if (keyA > keyB) return -1;
+        if (keyA < keyB) return 1;
+        return 0;
+    });
+}
+
+function arrayElementCount(array) {
+    var counts = {};
+
+    for (var i = 0; i < array.length; i++){
+        counts[array[i]] = (counts[array[i]] + 1) || 1;
+    }
+
+    var countArr = $.map(counts, function (value, index) {
+        return [{name:index, count:value}];
     });
 
-
-
-function bubbleChart(div, data) {
-    $('#bubble-chart-container').highcharts({
-        chart: {
-            type: 'bubble',
-            plotBorderWidth: 1,
-            zoomType: 'xy'
-        },
-
-        legend: {
-            enabled: false
-        },
-
-        title: {
-            text: 'Sugar and fat intake per country'
-        },
-
-        subtitle: {
-            text: 'Source: <a href="http://www.euromonitor.com/">Euromonitor</a> and <a href="https://data.oecd.org/">OECD</a>'
-        },
-
-        xAxis: {
-            gridLineWidth: 1,
-            title: {
-                text: 'Daily fat intake'
-            },
-            labels: {
-                format: '{value} gr'
-            },
-            plotLines: [{
-                color: 'black',
-                dashStyle: 'dot',
-                width: 2,
-                value: 65,
-                label: {
-                    align: 'middle',
-                    rotation: 0,
-                    y: 15,
-                    style: {
-                        fontStyle: 'italic'
-                    },
-                    text: 'Safe fat intake 65g/day'
-                },
-                zIndex: 3
-            }]
-        },
-
-        yAxis: {
-            startOnTick: false,
-            endOnTick: false,
-            title: {
-                text: 'Daily sugar intake'
-            },
-            labels: {
-                format: '{value} gr'
-            },
-            maxPadding: 0.2,
-            plotLines: [{
-                color: 'black',
-                dashStyle: 'dot',
-                width: 2,
-                value: 50,
-                label: {
-                    align: 'right',
-                    style: {
-                        fontStyle: 'italic'
-                    },
-                    text: 'Safe sugar intake 50g/day',
-                    x: -10
-                },
-                zIndex: 3
-            }]
-        },
-
-        tooltip: {
-            useHTML: true,
-            headerFormat: '<table>',
-            pointFormat: '<tr><th colspan="2"><h3>{point.country}</h3></th></tr>' +
-                '<tr><th>Fat intake:</th><td>{point.x}g</td></tr>' +
-                '<tr><th>Sugar intake:</th><td>{point.y}g</td></tr>' +
-                '<tr><th>Obesity (adults):</th><td>{point.z}%</td></tr>',
-            footerFormat: '</table>',
-            followPointer: true
-        },
-
-        plotOptions: {
-            series: {
-                dataLabels: {
-                    enabled: true,
-                    format: '{point.name}'
-                }
-            }
-        },
-
-        series: [{
-            data: data
-        }]
-
-    });
+   // console.log(countArr);
+    return countArr;
 }

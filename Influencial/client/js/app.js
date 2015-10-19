@@ -3,6 +3,10 @@
 var influential = angular.module('influential', [
     'ngResource',
     'ui.router',
-    'in.influencerGallery'
+    'highcharts-ng',
+    'in.influencerGallery',
+    'in.Tags',
+    'in.InstragramPost',
+    'ChartConfig'
 ]);
 

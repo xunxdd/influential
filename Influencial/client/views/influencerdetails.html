@@ -2,13 +2,9 @@
     <section class="content" data-ng-controller="influencerDetailController as vm">
 
         <div class="row">
-            <h2>Statistics <small>Yep, there is a lot going on.</small></h2>
-        </div>
-
-
-        <div class="row">
             <div class="col-md-8">
 
+                <h2>Statistics <small class="pull-right small"><a href="{{vm.influencer.BlogUrl}}" target="_blank"><i class="fa fa-external-link"></i>{{vm.influencer.Blog}}</a></small></h2>
                 <div class="panel panel-padding30 panel-twitter">
 
                     <div class="row">
@@ -56,10 +52,7 @@
                                 <i class="icon icon-fw icon-avatar"></i>Instragram User Name: {{vm.instagramUser.Username}}
                             </p>
                             <p>
-                                <i class="fa fa-link"></i><a href="{{vm.instagramUser.Website}}">{{vm.instagramUser.Website}}</a>
-                            </p>
-                            <p>
-                                {{vm.instagramUser.Bio}}
+                             Bio:   {{vm.instagramUser.Bio}}
                             </p>
                             <ul class="user-badges list-unstyled row">
                                 <li class="col-xs-4">
@@ -73,7 +66,7 @@
                                     <button class="btn btn-info btn-sm mt15">Following</button>
                                 </li>
                                 <li class="col-xs-4">
-                                    <i class="fa fa-twitter text-color"></i>
+                                    <i class="fa fa-instagram text-color"></i>
                                     <strong>{{vm.instagramUser.Media}}</strong>
                                     <button class="btn btn-primary btn-sm mt15">Posts</button>
                                 </li>
@@ -81,18 +74,41 @@
                         </div>
                     </div>
                 </div>
-           
                 <div class="panel panel-lined mb30">
+                    <div class="panel-body">
+                        <div class="col-md-6">
+                            <tags title="Top Twitter Hashtags" hashtags="vm.twitterHashtags"></tags>
+                        </div>
+                        <div class="col-md-6">
+                            <tags title="Top Instragram Hashtags" hashtags="vm.instagramHashtags"></tags>
+                        </div>
+                        </div>
+                    </div>
+
+                <div class="panel panel-lined mb30">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Buzzy buzzy words (data source: blog)</h3>
+                    </div>
+                    <highchart id="bubble-chart-container" config="vm.bubbleChartConfig" class="chart-responsive"></highchart>
+                </div>
+
+                <div class="panel panel-lined mb30">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Where are the followers?</h3>
+                    </div>
+                    
                     <div id="tbs-map" style="position: relative; overflow: hidden; transform: translateZ(0px); background-color: rgb(229, 227, 223);">
                     </div>
                 </div>
 
-                <div class="panel panel-lined mb30">
-                    <div id="bubble-chart-container" class="chart-responsive"></div>
-                </div>
-
+           
                 </div>
             <div class="col-md-4">
+                <div class="panel panel-default">
+                    <instagram-posts title="Recent Instagram Posts" posts="vm.instagramPosts"></instagram-posts>
+
+                </div>
+
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h3 class="panel-title"><i class="fa fa-twitter"></i> Recent Tweets</h3>

@@ -1,0 +1,14 @@
+﻿<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3 class="panel-title"><i class="fa fa-instagram"></i> {{title}}</h3>
+    </div>
+    <div class="panel-body">
+        <div class="col-sm-6 wrapper" data-ng-repeat="post in posts">
+            <a href="{{post.link}}" target="_blank">
+                <div class="fix">
+                    <img src="{{post.thumbnail}}" class="img-responsive" alt=""/>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>

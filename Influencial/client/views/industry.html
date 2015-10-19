@@ -1,0 +1,28 @@
+﻿<section class="content-wrapper">
+
+      
+    <div class="row" ng-controller="IndustryController as vm">
+          <div class="col-md-8">
+                <div class="panel panel-lined mb30">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Twitter Followers/Following/Posts</h3>
+                    </div>
+                    <highchart config="vm.twitterChartConfig" class="chart-responsive"></highchart>
+                </div>
+
+            </div>
+        </div>
+
+    <div class="row" ng-controller="IndustryController as vm">
+        <div class="col-md-8">
+            <div class="panel panel-lined mb30">
+                <div class="panel-heading">
+                    <h3 class="panel-title">Instagram Followers/Following/Posts</h3>
+                </div>
+                <highchart config="vm.instagramChartConfig" class="chart-responsive"></highchart>
+            </div>
+
+        </div>
+    </div>
+
+</section>

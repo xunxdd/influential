@@ -1,0 +1,12 @@
+﻿<h3 class="panel-title">{{title}}</h3>
+
+<ul class="list-group">
+    <li class="list-group-item has-border" data-ng-repeat="tag in hashtags">
+        <div class="tag">
+            <div class="pull-right">
+                {{tag.count}}
+            </div>
+            {{tag.name}}
+        </div>
+    </li>
+</ul>

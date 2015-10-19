@@ -1,0 +1,1442 @@
+[
+  {
+    "Expression":"www wendyslookbook com",
+    "Expression count":4,
+    "Frequency":"0.20%",
+    "Prominence":60.5,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"on www wendyslookbook",
+    "Expression count":4,
+    "Frequency":"0.20%",
+    "Prominence":60.6,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"at the burgundy_paris",
+    "Expression count":3,
+    "Frequency":"0.20%",
+    "Prominence":37.7,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"www liketk it",
+    "Expression count":3,
+    "Frequency":"0.20%",
+    "Prominence":47,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"wendyslookbook com",
+    "Expression count":3,
+    "Frequency":"0.20%",
+    "Prominence":62.4,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"wearing",
+    "Expression count":3,
+    "Frequency":"0.20%",
+    "Prominence":74.1,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"americandays",
+    "Expression count":3,
+    "Frequency":"0.20%",
+    "Prominence":92.2,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"on garypeppergirl com",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":7.9,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"tank",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":11.4,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"in the areyouami",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":13.6,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"shop",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":18.5,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"room",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":23.7,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"today",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":27.6,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"new from paris",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":41.8,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"new from",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":41.9,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"airport",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":42.1,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"nyc",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":42.4,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"marissawebb",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":66.1,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"ciao",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":68.5,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"face",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":71.3,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"one of my",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":71.5,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"from",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":77.8,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"after",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":87,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"theblondesaladneverstops",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":88.7,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"angeles",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"los angeles",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"americandays",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92.5,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"new on theblondesalad",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92.7,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"americandays",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":95.8,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"theblondesaladgoestohollywood americandays",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97.6,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"theblondesaladgoestohollywood",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97.6,
+    "source":"instagram",
+    "category":"fashion"
+  },
+  {
+    "Expression":"on the site",
+    "Expression count":20,
+    "Frequency":"0.60%",
+    "Prominence":22.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"takeover by gn0me",
+    "Expression count":6,
+    "Frequency":"0.20%",
+    "Prominence":48,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"featured on artsyshark",
+    "Expression count":6,
+    "Frequency":"0.20%",
+    "Prominence":89.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"on artsyshark today",
+    "Expression count":6,
+    "Frequency":"0.20%",
+    "Prominence":92.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"right now itsnicethat",
+    "Expression count":5,
+    "Frequency":"0.20%",
+    "Prominence":12.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"now itsnicethat graphicdesign",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":12.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"site this weekend",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":18.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the site this",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":18.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"pop over to",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":33.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"on the podcast",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":36.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"link in profile",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":38.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"about it on",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":47.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"on artsyshark com",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":84,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"are featured on",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":92.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"my profile link",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":95.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"link to view",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":96.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"photo by",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":1.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"see more on",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":6.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"result is a",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":10,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the result is",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":10,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"creations on the",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":10.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"this weekend itsnicethat",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":15.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"about now itsnicethat",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":16.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"right about now",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":16.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"site right about",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":16.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"new york times",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":17,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the new york",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":17.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"series on the",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":20.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"latest series of",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":22.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"focused on the",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":26.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"over to the",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":33.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the podcast today",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":34.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"an installation by",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":35,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"to look listen",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":37.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"from them",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.2,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"like from them",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.2,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"you like from",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"whatever you like",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"or whatever you",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"poems or whatever",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"collages poems or",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"paintings collages poems",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"make paintings collages",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"or make paintings",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"there or make",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"right there or",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"stop right there",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"them stop right",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"photograph them stop",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"compositions photograph them",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"into compositions photograph",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"organize into compositions",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"items organize into",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"random items organize",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"gather random items",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"gather random",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"no gather",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"creativeunblock no",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"creativeunblock no",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"no creativeunblock",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"composition no",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"photo composition no",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"photo composition",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":44.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"dcnlondon instagram takeover",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"dcninteriors instagram takeover",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"dcnlondon dcninteriors instagram",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"london dcnlondon dcnarchitecture",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"dcnlifestyle instagram takeover",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":48.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"dcnlondon dcnlifestyle instagram",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":48.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"ly hqxanf travel",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"bit ly hqxanf",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"http bit ly",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"on http bit",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.5,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"more on http",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"more on",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"croatia more",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.6,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"parc croatia",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"national parc croatia",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"krka national parc",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":53.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the work of",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":54.4,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"wherecoolthingshappen com the",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":58.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"on wherecoolthingshappen com",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":58.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"it on wherecoolthingshappen",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":58.9,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"read about it",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":59,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"sont dans le",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":65.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"in charleston chs",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":78.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"artsyshark com today",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":83.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"she is profiled",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":86.8,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"artsyshark today his",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90.3,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"artsyshark today",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"see his portfolio",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"arts business institute",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":93.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"the arts business",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":93.7,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"click my profile",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":96.1,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"our profile link",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"link to read",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97,
+    "source":"instagram",
+    "category":"arts"
+  },
+  {
+    "Expression":"",
+    "Expression count":null,
+    "Frequency":"",
+    "Prominence":null,
+    "source":"",
+    "category":""
+  },
+  {
+    "Expression":"http rasamalaysia com",
+    "Expression count":16,
+    "Frequency":"0.80%",
+    "Prominence":92,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"linkinbio http rasamalaysia",
+    "Expression count":13,
+    "Frequency":"0.60%",
+    "Prominence":92.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"dinner linkinbio http",
+    "Expression count":5,
+    "Frequency":"0.20%",
+    "Prominence":91.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"on the blog",
+    "Expression count":4,
+    "Frequency":"0.20%",
+    "Prominence":35.6,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"takeout linkinbio http",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":94.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"chinesefood takeout linkinbio",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":94.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"giveaway us only",
+    "Expression count":3,
+    "Frequency":"0.10%",
+    "Prominence":94.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"a perfect steak",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":13.3,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"the52 food52grams buzzfeast",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":19.3,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"in profile",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":22.1,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"litoral",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":26,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"bolo de",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":28.2,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"bolo",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":28.2,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"de chocolate e",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":28.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"mousse de",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":30.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"end of summer",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":30.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"tarte de",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":32.6,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"and it s",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":43.6,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"with sarah henry",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"book on california",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":47.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"theapplefarm in philo",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":48.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"at theapplefarm in",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":48.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"today s lunch",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":56.9,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"i m making",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":57.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"at the beautiful",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":57.8,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"of this one",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":67.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"refined and refined",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":73.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"from choosingraw s",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":78.1,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"take care of",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":79,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"chili garlic shrimp",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":84.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"sweet chili garlic",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":84.8,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"brazilian cheese bread",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":87.9,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"rasamalaysia com garlic",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":88.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"piece enamel",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"ray piece",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"rachel ray",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90.1,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"rasamalaysia com sweet",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90.8,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"beef and broccoli",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":90.9,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"roasted butternut squash",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":91.6,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"parmesan roasted butternut",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":91.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"garlic parmesan roasted",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":91.7,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"us only giveaways",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"kung pao chicken",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":92.6,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"chicken chinesefood takeout",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":93.1,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"anolon rectangle roaster",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":95.3,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"chinese honey chicken",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":96.2,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"and sour pork",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97.4,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"sweet and sour",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":97.5,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"empanada maker giveaway",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":98.2,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"imusa empanada maker",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":98.2,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"chili lime corn",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":99.3,
+    "source":"instagram",
+    "category":"food"
+  },
+  {
+    "Expression":"skillet chili lime",
+    "Expression count":2,
+    "Frequency":"0.10%",
+    "Prominence":99.4,
+    "source":"instagram",
+    "category":"food"
+  }
+]

@@ -93,3 +93,30 @@
 .footer {
      padding:15px;
  }
+
+.small a {
+    font-size:13px;
+}
+
+.small a .fa {
+    padding:5px;
+}
+
+.list-group-item.has-border {
+    border: 1px solid #ddd;
+}
+
+.instagram-desc{
+    background-color: #000;
+    bottom: 0;
+    color: #fff;
+    left: 10px;
+    opacity: 0.5;
+    position: absolute;
+    width: 50%;
+}
+
+.fix{
+    width: 100%;
+    padding: 5px;
+}

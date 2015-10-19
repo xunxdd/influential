@@ -17,9 +17,9 @@
                 templateUrl: 'views/influencerdetails.html'
             })
 
-            .state('fashion', {
-                url: '/fashion',
-                templateUrl: 'views/fashion.html'
+            .state('industry', {
+                url: '/industry/:id',
+                templateUrl: 'views/industry.html'
             })
             .state('food', {
                 url: '/food',
