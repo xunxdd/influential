@@ -175,6 +175,7 @@
     <Content Include="client\views\influencerdetails.html" />
     <Content Include="client\views\influencers.html" />
     <Content Include="Global.asax" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
