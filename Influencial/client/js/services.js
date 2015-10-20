@@ -57,35 +57,30 @@ influential
                 return $resource("data/instagram-recentposts.json");
             };
 
-            service.getMostRecentPostsByUsers = function (data, uid, dateField) {
-                var match = data.filter(function (itm) { return itm.username == uid; });
+            service.getMostRecentPostsByUsers = function (data, uids, dateField, dataField) {
+                var match = data.filter(function (itm) { return uids.indexOf(itm.username) >= 0 && itm[dataField]; });
                 sortArrayByDateTimeDescending(match, dateField);
-                return match && match.length ? match.splice(0, 9) : null;
+                return match && match.length ? match.splice(0, 10) : null;
             };
-            service.getHashtagByUsers = function(data, uid, delimiter) {
-                var match = data.filter(function(itm) { return itm.username == uid; });
+            service.getHashtagByUsers = function(data, uids, delimiter) {
+                var match = data.filter(function (itm) { return uids.indexOf(itm.username) >=0; });
                 var hash = match.map(function(t) {
                     return t.hashtags;
                 });
                 return getCleanTags(hash, delimiter);
             }
+            //only available on industry level 
+            service.getKeywordsCount= function(data) {
+                return keywordsCount(data);
+            }
+
+            service.getBubblePos=function(data) {
+               return getBubbleChartData(data);
+            }
         }
      ])
-    .service('tweetService', [
-        '$resource', function($resource) {
-            var service = this;
-            service.getTweets = function() {
-                return $resource("data/Tweets.json");
-            };
-            service.getTweetsByUsers = function(data, uid) {
-                var match = data.filter(function(itm) { return itm.handle == uid; });
-                return match && match.length ? match.splice(0, 9) : null;
-            };
-        }
-    ])
+    
     .service('mapService', function() {
-        var themeUrl = "http:\/\/www.theblondesalad.com\/wp-content\/themes\/tbs_diana";
-
         var style = {
             "styledMapName": "tbs",
             "styles": [
@@ -148,7 +143,7 @@ influential
                         icon.onload = function() {
                             marker.setIcon(this.src);
                         };
-                        icon.src = themeUrl + '/images/pins/' + tag.tag.toLowerCase() + '.png';
+                        icon.src = 'images/flags/' + tag.tag.toLowerCase() + '.png';
                         //console.log(icon.src);
                     })();
                 }
@@ -176,16 +171,23 @@ function getCleanTags(hash, delimiter) {
         }
     }
     var counts = arrayElementCount(cleanTags);
-    
-    counts.sort(function (a, b) {
-        var keyA = a.count,
-        keyB = b.count;
+
+    sortArrayByNumberDescending(counts);
+   // console.log(counts);
+    return counts.splice(0,9);
+}
+
+function sortArrayByNumberDescending(array, sortField) {
+    var field = sortField || 'count';
+
+    array.sort(function (a, b) {
+        var keyA = a[field],
+        keyB = b[field];
         if (keyA > keyB) return -1;
         if (keyA < keyB) return 1;
         return 0;
     });
-   // console.log(counts);
-    return counts.splice(0,9);
+
 }
 
 function sortArrayByDateTimeDescending(array, dateField) {
@@ -210,6 +212,44 @@ function arrayElementCount(array) {
         return [{name:index, count:value}];
     });
 
-   // console.log(countArr);
     return countArr;
+}
+
+function keywordsCount(array) {
+    var counts = {};
+
+    for (var i = 0; i < array.length; i++) {
+        counts[array[i].keyword] = (counts[array[i].keyword] + array[i].count) || array[i].count;
+    }
+
+    var countArr = $.map(counts, function (value, index) {
+        return [{ key: index, count: value }];
+    });
+
+    // console.log(countArr);
+    return countArr;
+}
+
+function getBubbleChartData(data) {
+    sortArrayByNumberDescending(data);
+    var sorted = data,
+        i, l = sorted.length,
+        min = sorted[l - 1].count, max = sorted[0].count,
+        avg=(min+max)/l,
+        chartData=[], x, y, z;
+
+    for (i = 0; i < l; i++) {
+        x = Math.floor((Math.random() * 1000) + 1);
+        y = Math.floor((Math.random() * 10) + 1);
+        z = (data[i].count/2 * (avg));
+        chartData.push({
+            x: x,
+            y: y,
+            z: z,
+            name: data[i].key,
+            count:data[i].count
+        });
+    }
+    return chartData;
+    //console.log(chartData);
 }

@@ -7,6 +7,7 @@ var influential = angular.module('influential', [
     'in.influencerGallery',
     'in.Tags',
     'in.InstragramPost',
+    'in.Tweets',
     'ChartConfig'
 ]);
 

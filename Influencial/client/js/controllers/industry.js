@@ -1,6 +1,6 @@
 ﻿influential
-    .controller('IndustryController', function ($stateParams, mapService,
-        influencerService, userDataService, subjectandTagService) {
+    .controller('IndustryController', function ($stateParams,
+        influencerService, userDataService, bubbleChartConfig,subjectandTagService) {
         var vm = this,
             art = "Art", fashion = "Fashion", food = "Food",
             industries= {
@@ -17,6 +17,8 @@
                 return t.InstagramHandle;
             });
 
+        vm.influencers = influencers;
+        vm.industry = industry;
         userDataService.getTwitterusers().query(function (data) {
             var users = data.filter(function(u) {
                 return tHandles.indexOf(u.Handle) >= 0;
@@ -30,7 +32,35 @@
             });
             vm.instagramChartConfig = getChartConfig(users, 'Username', 'FollowedBy', 'Follows', 'Media');
         });
-        
+
+        subjectandTagService.getInstragramRecentPosts().query(function (data) {
+            vm.instagramPosts = subjectandTagService.getMostRecentPostsByUsers(data, iHandles, "createdtime", "thumbnail");
+        });
+
+        subjectandTagService.getRecentTweets().query(function (data) {
+            vm.tweets = subjectandTagService.getMostRecentPostsByUsers(data, tHandles, "createdtime", "tweettext");
+        });
+
+        subjectandTagService.getRecentTweets().query(function (data) {
+            vm.twitterHashtags = subjectandTagService.getHashtagByUsers(data, tHandles, "|");
+        });
+
+        subjectandTagService.getInstragramRecentPosts().query(function (data) {
+            vm.instagramHashtags = subjectandTagService.getHashtagByUsers(data, iHandles, ",");
+        });
+
+        subjectandTagService.getTweetSubjects().query(function (data) {
+            var industryData = data.filter(function(d) {
+                 return d.category.toLowerCase() == industry.toLowerCase();
+            });
+            var subjects = subjectandTagService.getKeywordsCount(industryData, industry);
+            var bubbleChartData = subjectandTagService.getBubblePos(subjects);
+            var dataSeries = [{
+                data: bubbleChartData
+            }];
+
+            vm.bubbleChartConfig = bubbleChartConfig.getConfig('Hot Words', dataSeries);
+        });
     });
 
 function getChartConfig(influencers, nameField, followField, followingField, postField) {

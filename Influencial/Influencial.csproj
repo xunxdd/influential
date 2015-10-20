@@ -137,6 +137,8 @@
     <Content Include="client\components\InstragramPost\InstagramPost.js" />
     <Content Include="client\components\TagList\Tags.html" />
     <Content Include="client\components\TagList\Tags.js" />
+    <Content Include="client\components\Tweets\Tweet.js" />
+    <Content Include="client\components\Tweets\Tweets.html" />
     <Content Include="client\css\app.css" />
     <Content Include="client\css\font-awesome.css" />
     <Content Include="client\data\InstagramRecentPosts.txt" />
@@ -169,11 +171,9 @@
     <Content Include="client\js\services.js" />
     <Content Include="client\template\footer.html" />
     <Content Include="client\template\header.html" />
-    <Content Include="client\views\arts.html" />
-    <Content Include="client\views\fashion.html" />
+    <Content Include="client\views\industry.html" />
     <Content Include="client\views\influencerdetails.html" />
     <Content Include="client\views\influencers.html" />
-    <Content Include="client\views\map.html" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>

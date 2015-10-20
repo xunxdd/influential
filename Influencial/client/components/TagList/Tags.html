@@ -1,12 +1,18 @@
-﻿<h3 class="panel-title">{{title}}</h3>
+﻿<div class="panel panel-default">
+    <div class="panel-heading">
 
-<ul class="list-group">
-    <li class="list-group-item has-border" data-ng-repeat="tag in hashtags">
-        <div class="tag">
-            <div class="pull-right">
-                {{tag.count}}
-            </div>
-            {{tag.name}}
-        </div>
-    </li>
-</ul>
+        <h3 class="panel-title">{{title}}</h3>
+    </div>
+    <div class="panel-body">
+        <ul class="list-group">
+            <li class="list-group-item" data-ng-repeat="tag in hashtags">
+                <div class="tag">
+                    <div class="pull-right">
+                        {{tag.count}}
+                    </div>
+                    {{tag.name}}
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

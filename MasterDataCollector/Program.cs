@@ -113,11 +113,11 @@ namespace MasterDataCollector
                 }
             }
 
-            CollectTweetUserData();
+           // CollectTweetUserData();
            // Console.WriteLine(" user done");
-           // CollectTweetdata();
-            //CollectInstagramData();
-           // CollectInstagramData();
+            CollectTweetdata();
+            CollectInstagramData();
+          // CollectInstagramData();
             Console.Read();
         }
 

@@ -1,4506 +1,4862 @@
 [
   {
-    "Expression":"of my favorite",
-    "Expression count":6,
-    "Frequency":"0.10%",
-    "Prominence":54.1,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"learn how to",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":13.7,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"rt sweetnspark i",
-    "Expression count":4,
+    "Expression":"sweetnspark",
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":14.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"Expression"
   },
   {
     "Expression":"nordstrom http t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":14.9,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"liketoknow it http",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":15.2,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"nordstorm"
   },
   {
     "Expression":"quin https t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":21,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"quin"
   },
   {
     "Expression":"the quin https",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":21,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"quin"
   },
   {
     "Expression":"the plaza",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":33,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"posted a photo",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":35.5,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"just posted a",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":35.5,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"today http t",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":38.5,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"plaza"
   },
   {
     "Expression":"in paris",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":46.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"smithhotels",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":48.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"Expression"
   },
   {
     "Expression":"paris https t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":60.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"burgundy paris https",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":60.8,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"new outfit post",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":61.1,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"wearing",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":61.8,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"rt",
-    "Expression count":4,
-    "Frequency":"0.10%",
-    "Prominence":69.2,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"foreverome http t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":72.5,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"bring on the",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":2,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"rome"
   },
   {
     "Expression":"nordstrom nordstrom http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":4.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"nordstorm"
   },
   {
     "Expression":"how to broochit",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":13.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"broochit"
   },
   {
     "Expression":"with galmeetsglam to",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":14.2,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"final walk at",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":25.9,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"liketkit https t",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":28.5,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"hollywood https t",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":37.4,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"with galmeetsglam to"
   },
   {
     "Expression":"paris",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":42.2,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"and� https t",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":50.2,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"dress",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":50.8,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"tomorrow",
-    "Expression count":3,
-    "Frequency":"0.10%",
-    "Prominence":57.1,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"at the burgundy_paris",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":58.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"resort https t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":90.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"resort"
   },
   {
     "Expression":"cappuccini resort https",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":90.9,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":">",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":0.6,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"cappuccini resort"
   },
   {
     "Expression":"the buffalo plaid",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":0.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"the buffalo plaid"
   },
   {
     "Expression":"on the buffalo",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":0.8,
     "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"degrees in",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":2.4,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"coat on the",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":2.9,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"the blog today",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":3.6,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"iamchloe http t",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":5.4,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"t co 6fa7uienqr",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":6,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"on gmg today",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":8.9,
-    "source":"twitter",
-    "category":"fashion"
-  },
-  {
-    "Expression":"it s here",
-    "Expression count":2,
-    "Frequency":"0%",
-    "Prominence":9.2,
-    "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"on the buffalo"
   },
   {
     "Expression":"rt sweetnspark",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":12,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"sweetnspark"
   },
   {
     "Expression":"sanfrancisco",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":12.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"sanfrancisco"
   },
   {
     "Expression":"head over to",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":12.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"today head over",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":12.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"galmeetsglam today head",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":12.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"sweetnspark i ve",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":13.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"sweetnspark"
   },
   {
     "Expression":"card here http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"spark card here",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"spark card",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"win spark",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"style one and",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"to style one",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"how to style",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"giveaway with galmeetsglam",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"galmeetsglam"
   },
   {
     "Expression":"broochit learn how",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"broochit"
   },
   {
     "Expression":"to broochit learn",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"broochit"
   },
   {
     "Expression":"galmeetsglam to show",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"galmeetsglam"
   },
   {
     "Expression":"partnered with galmeetsglam",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"galmeetsglam"
   },
   {
     "Expression":"in apple hill",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"quinpenthouse the quin",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":20.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"quin"
   },
   {
     "Expression":"thequinhotel quinpenthouse the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":20.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"quin"
   },
   {
     "Expression":"last night with",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":23.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"louvre https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"louvre"
   },
   {
     "Expression":"du louvre https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"louvre"
   },
   {
     "Expression":"mus�e du louvre",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"louvre"
   },
   {
     "Expression":"mus�e du",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"mus�e",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"new york https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":25.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"new york"
   },
   {
     "Expression":"w sammcknight1 lorealpro",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":26.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"palais"
   },
   {
     "Expression":"palais https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"palais"
   },
   {
     "Expression":"grand palais https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"palais"
   },
   {
     "Expression":"grand palais",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"palais"
   },
   {
     "Expression":"grand",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"chanelairways",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"chanelairways"
   },
   {
     "Expression":"chanel chanelairways",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"chanel chanelairways"
   },
   {
     "Expression":"sarahandsebastianjewellery",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"of the season",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":28.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"start the day",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"to start the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"the perfect",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"and it s",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"areyouami",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"airport https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"international airport https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"kennedy international airport",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"f kennedy international",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"john f kennedy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"siren studios https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"park https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":36.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"picks http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":37.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"in the areyouami",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":37.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"and i have",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":38.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"another shot from",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"angeles https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":41.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"los angeles https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":41.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"los angeles"
   },
   {
     "Expression":"outfit post wearing",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"best blogger business",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"for best blogger",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"nominated for best",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"aeo",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":43,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"wait to be",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":43.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"of my favourite",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"be nominated for",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"to be nominated",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"honored to be",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"i",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"dress from storets",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"now",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":47.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"morning",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":47.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"cave hotel https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"boutique cave hotel",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"boutique"
   },
   {
     "Expression":"a boutique cave",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"santorini a boutique",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"iconic santorini a",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"santorini"
   },
   {
     "Expression":"smithhotels iconic santorini",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"smithhotels iconic",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"pfw paris france",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":51.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"t co psqmr1pgvn",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":52.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"article on http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":52.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"on my snapchat",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":53,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"t the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":53.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":53.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"fondation� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":54.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"view",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":54.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"a day in",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":55.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"couple of days",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":56.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"in time for",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"just in time",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"to be in",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"happy to be",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"so happy to",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":58,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"i ll be",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":58,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"saying goodbye to",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":59.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"kaytureonthego paris france",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":59.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"storets http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":60,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"you and your",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":62.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"when you and",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":62.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"of the year",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":63.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"s",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"you",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":65.6,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"with",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":66.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"one of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":71.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"one",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":71.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"had such a",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"in l a",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"rome",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"here",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"foreverome http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"foreversome"
   },
   {
     "Expression":"foreverome",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"foreversome"
   },
   {
     "Expression":"bulgariofficial foreverome http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"foreversome"
   },
   {
     "Expression":"beauties seaofshoes eatsleepwear",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"beauties seaofshoes eatsleepwear"
   },
   {
     "Expression":"these beauties seaofshoes",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"with these beauties",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"love",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.2,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"by",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"http t c�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":74.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"much beauty here",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":74.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"so much beauty",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":74.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"�lys�es https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":77,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"champs �lys�es https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":77,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"des champs �lys�es",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":77,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"avenue des champs",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":77,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"paris"
   },
   {
     "Expression":"pfw http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":78.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"face",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":81.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"milano https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"duomo milano https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"del duomo milano",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"piazza del duomo",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"piazza del",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"piazza",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"milano",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":87,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"milano"
   },
   {
     "Expression":"from",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.3,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"discover our favorite",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"ca_del_bosco",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"ca_del_bosco"
   },
   {
     "Expression":"at ca_del_bosco",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"in the vineyards",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"theblondesaladgoestofranciacorta cappuccini resort",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":91.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"cappuccini resort"
   },
   {
     "Expression":"theblondesalad 6th anniversary",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":91.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"cappuccini resort"
   },
   {
     "Expression":"fw1516 http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":94.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"for fw1516 http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":94.4,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"coat italiandays storets",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"italiandays"
   },
   {
     "Expression":"fur coat italiandays",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"italiandays"
   },
   {
     "Expression":"faux fur coat",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.7,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"fur"
   },
   {
     "Expression":"storets faux fur",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.8,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"fur"
   },
   {
     "Expression":"theblondesalad trending now",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"rt theblondesalad trending",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"new on theblondesalad",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":95.9,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"< http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.5,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"theblondesalad sunset seeker",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":97.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":""
   },
   {
     "Expression":"americandays",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":99.1,
     "source":"twitter",
-    "category":"fashion"
+    "category":"fashion",
+    "keyword":"americandays"
   },
   {
     "Expression":"meal based on",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"main meal based",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"a main meal",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"recipe a main",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"recipe"
   },
   {
     "Expression":"pantry recipe a",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"pantry"
   },
   {
     "Expression":"ultimate pantry recipe",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"pantry"
   },
   {
     "Expression":"eastern ultimate pantry",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"pantry"
   },
   {
     "Expression":"middle eastern ultimate",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"middle eastern ultimate"
   },
   {
     "Expression":"the middle eastern",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"the middle eastern"
   },
   {
     "Expression":"as the middle",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"mujadara as the",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"mujadara"
   },
   {
     "Expression":"of mujadara as",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"think of mujadara",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"mujadara"
   },
   {
     "Expression":"can think of",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"you can think",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":18.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"daisy white_lightning john_birdsall",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":24.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"you can think"
   },
   {
     "Expression":"manso portuense",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":49,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"daisy white_lightning john_birdsall"
   },
   {
     "Expression":"coelho manso",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":49,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"manso portuense"
   },
   {
     "Expression":"simple recipes for",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":71.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"recipe"
   },
   {
     "Expression":"co izj4clz8eh http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":73.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"t co izj4clz8eh",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":73.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"sladenburger hdhardison http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":73.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"enter to win",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":85.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"dinner linkinbio� https",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":97.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"giveaway us only",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0.10%",
     "Prominence":98.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"ej6z6sxy4y https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"co ej6z6sxy4y https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"t co ej6z6sxy4y",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"on http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"moscow https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"latte http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
-    "Expression":"chamomile latte http",
-    "Expression count":2,
+    "Expression":"chamomile latte",
+    "count":2,
     "Frequency":"0%",
     "Prominence":5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"chamomile latte"
   },
   {
     "Expression":"and chamomile latte",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"and chamomile latte"
   },
   {
     "Expression":"milkshake and chamomile",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"milkshake and chamomile"
   },
   {
     "Expression":"lavender milkshake and",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"lavender milkshake and"
   },
   {
     "Expression":"creamy coconut sauce",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"creamy coconut sauce"
   },
   {
     "Expression":"in creamy coconut",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"creamy coconut sauce"
   },
   {
     "Expression":"tomatoes in creamy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"creamy coconut sauce"
   },
   {
     "Expression":"and tomatoes in",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"tomatoes"
   },
   {
     "Expression":"corn and tomatoes",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"with corn and",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"corn"
   },
   {
     "Expression":"pasta with corn",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":5.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"pasta"
   },
   {
     "Expression":"photos http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"cardamom https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"cardamom"
   },
   {
     "Expression":"cookies http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"omgsmoked https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":20.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"feastpdx omgsmoked https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":20.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"feastpdx feastpdx omgsmoked"
   },
   {
     "Expression":"feastpdx feastpdx omgsmoked",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":20.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"feastpdx feastpdx omgsmoked"
   },
   {
     "Expression":"t go wrong",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":22,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"can t go",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":22.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"thank you for",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":22.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"brokeassgourmet chefmelissaking",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":23.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"brokeassgourmet chefmelissaking"
   },
   {
     "Expression":"brokeassgourmet chefmelissaking but",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":23.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"brokeassgourmet daisy white_lightning",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":25,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"kat707 brokeassgourmet daisy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":25,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"kat707 brokeassgourmet",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":25,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"the best",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":26.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"are the best",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":26.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"yay https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"recipes http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":27.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"recipe"
   },
   {
     "Expression":"tomato bacon jam",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"tomatoes"
   },
   {
     "Expression":"of julia child",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"julia child"
   },
   {
     "Expression":"happy� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"the city",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":36.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"with an egg",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":37.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"egg"
   },
   {
     "Expression":"and honey from",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":39,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"honey"
   },
   {
     "Expression":"out http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"is out http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"daily is out",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"logansquare daily is",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"logansquare"
   },
   {
     "Expression":"logansquarist logansquare daily",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"logansquare"
   },
   {
     "Expression":"rt logansquarist logansquare",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"logansquare"
   },
   {
     "Expression":"rt logansquarist",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":40.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"logansquare"
   },
   {
     "Expression":"from� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":41.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"a batch of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":43.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"for� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"p http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"it s so",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":45.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"posted a photo",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"litoral http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bairradino beira litoral"
   },
   {
     "Expression":"beira litoral http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bairradino beira litoral"
   },
   {
     "Expression":"bairradino beira litoral",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bairradino beira litoral"
   },
   {
     "Expression":"doce bairradino beira",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"doce bairradino beira"
   },
   {
     "Expression":"arroz doce bairradino",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":46.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"arroz doce bairradino"
   },
   {
     "Expression":"coco http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"e coco http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"coco"
   },
   {
     "Expression":"doce e coco",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"coco"
   },
   {
     "Expression":"batata doce e",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"coco"
   },
   {
     "Expression":"de batata doce",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"coco"
   },
   {
     "Expression":"bolo de batata",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"coco"
   },
   {
     "Expression":"bolo de",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bolo"
   },
   {
     "Expression":"bolo",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bolo"
   },
   {
     "Expression":"anos le creuset",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"anos le creuset"
   },
   {
     "Expression":"anos le",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":48.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"bolos de ma��",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bolo"
   },
   {
     "Expression":"de bolos de",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":49.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"bolo"
   },
   {
     "Expression":"blog http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":50.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"s recipe for",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":53.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"weekend http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":55.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"the weekend http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":55.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"again",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"at http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":57.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"the� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":58.2,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"here",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":58.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"t co zvuknw4jjn",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"pistachio tangerine cookies",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"pistachio tangerine cookies"
   },
   {
     "Expression":"this right now",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":65.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"here http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":66.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"season by sladenburger",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":69.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"the season by",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":69.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"for the season",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":69.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"recipes for the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":69.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"i m making",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":70.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"salad http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":70.8,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"salad"
   },
   {
     "Expression":"new blog",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":71.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"post the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":72.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"by sladenburger hdhardison",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"sladenburger hdhardison"
   },
   {
     "Expression":"izj4clz8eh http t�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":74.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"new post",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":74.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"for",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":76.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"things http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":76.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"refined and refined",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":81.6,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"how to make",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":82.1,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"more http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":84.3,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"t c� yummy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"yummy"
   },
   {
     "Expression":"http t c�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"rasamalaysia http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.4,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"rasamalaysia "
   },
   {
     "Expression":"the tweet love",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"for the tweet",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"bio https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":92.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"in bio",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":92.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"recipe link in",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":92.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"or� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"bio or� https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"in bio or�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"mixer msrp",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"stand mixer msrp",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"lift stand mixer",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"bowl lift stand",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":93.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"chicken so good",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.7,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"dinner� https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":97.5,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"takeout linkinbio� https",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":97.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"chinesefood takeout linkinbio�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":97.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":"chinesefood"
   },
   {
     "Expression":"chicken chinesefood takeout",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":97.9,
     "source":"twitter",
-    "category":"food"
+    "category":"food",
+    "keyword":""
   },
   {
     "Expression":"dose october",
-    "Expression count":32,
+    "count":32,
     "Frequency":"0.50%",
     "Prominence":35,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"visual dose october",
-    "Expression count":32,
+    "count":32,
     "Frequency":"0.50%",
     "Prominence":35,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"post visual dose",
-    "Expression count":32,
+    "count":32,
     "Frequency":"0.50%",
     "Prominence":35,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"new post visual",
-    "Expression count":32,
+    "count":32,
     "Frequency":"0.50%",
     "Prominence":35,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"https t co",
-    "Expression count":30,
+    "count":30,
     "Frequency":"0.50%",
     "Prominence":47.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"travel daily coolness",
-    "Expression count":29,
+    "count":29,
     "Frequency":"0.50%",
     "Prominence":47.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"wcth travel daily",
-    "Expression count":29,
+    "count":29,
     "Frequency":"0.50%",
     "Prominence":47.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"http t",
-    "Expression count":27,
+    "count":27,
     "Frequency":"0.40%",
     "Prominence":70.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"http",
-    "Expression count":22,
+    "count":22,
     "Frequency":"0.40%",
     "Prominence":69,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"of the day",
-    "Expression count":6,
+    "count":6,
     "Frequency":"0.10%",
     "Prominence":2.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"wherecoolthingshappen http t",
-    "Expression count":6,
+    "count":6,
     "Frequency":"0.10%",
     "Prominence":43.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"daily coolness the",
-    "Expression count":6,
+    "count":6,
     "Frequency":"0.10%",
     "Prominence":48.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"news",
-    "Expression count":5,
+    "count":5,
     "Frequency":"0.10%",
     "Prominence":12.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"daily coolness",
-    "Expression count":5,
+    "count":5,
     "Frequency":"0.10%",
     "Prominence":48.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"daily coolness"
   },
   {
     "Expression":"today http t",
-    "Expression count":5,
+    "count":5,
     "Frequency":"0.10%",
     "Prominence":68,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"video of the",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":3.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"trippy video of",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":3.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"the work of",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":35.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"you ready for",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":84.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"are you ready",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":84.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"art http t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":86.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"video"
   },
   {
     "Expression":"post https t",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"fb post https",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"my fb post",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"on my fb",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"accomplishments"
   },
   {
     "Expression":"accomplishments on my",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"recent accomplishments on",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"your recent accomplishments",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"share your recent",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"please share your",
-    "Expression count":4,
+    "count":4,
     "Frequency":"0.10%",
     "Prominence":87.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"lol of the",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"dvydua1l93 http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co dvydua1l93 http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co dvydua1l93",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"nsfw > http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"together nsfw >",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"edited together nsfw",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hitchcock"
   },
   {
     "Expression":"worlds edited together",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hitchcock"
   },
   {
     "Expression":"hitchcock worlds edited",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hitchcock"
   },
   {
     "Expression":"and hitchcock worlds",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hitchcock"
   },
   {
     "Expression":"kubrick and hitchcock",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"kubrick"
   },
   {
     "Expression":"day kubrick and",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"kubrick"
   },
   {
     "Expression":"the day kubrick",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":2.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"kubrick"
   },
   {
     "Expression":"me i�m scared",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":8.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"scared"
   },
   {
     "Expression":"hug me i�m",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":8.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hug"
   },
   {
     "Expression":"qd3mtglaq3 http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":15.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co qd3mtglaq3 http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":15.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co qd3mtglaq3",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":15.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"7izy7k0bpd http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co 7izy7k0bpd http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co 7izy7k0bpd",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"brothers > http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"baddeley brothers"
   },
   {
     "Expression":"baddeley brothers >",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"baddeley brothers"
   },
   {
     "Expression":"wpiwkhvqgn http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co wpiwkhvqgn http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co wpiwkhvqgn",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":16.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"on the site",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":21,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"on the podcast",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":23.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"creativeunblock no",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":25.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"creativeunblock"
   },
   {
     "Expression":"vimeo staff pick",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":32.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"vimeo"
   },
   {
     "Expression":"daily coolness amazing",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":47.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"daily coolness"
   },
   {
     "Expression":"gallery http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":59.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"checklist http t",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"a checklist http",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"it a checklist",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"for it a",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"ready for it",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"representation are you",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"gallery representation are",
-    "Expression count":3,
+    "count":3,
     "Frequency":"0%",
     "Prominence":84.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"gallery"
   },
   {
     "Expression":"the day surprise",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"tricycles > http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":1.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"projecting tricycles >",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":1.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"projecting tricycles"
   },
   {
     "Expression":"animation projecting tricycles",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":1.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"projecting tricycles"
   },
   {
     "Expression":"roving animation projecting",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":1.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"animation"
   },
   {
     "Expression":"kaspl9zv4h http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co kaspl9zv4h http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co kaspl9zv4h",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"ride > http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"my ride >",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"pimp my ride",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"pimp my ride"
   },
   {
     "Expression":"of pimp my",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":2.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"version of pimp",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"cardboard version of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"cardboard verion"
   },
   {
     "Expression":"surprise cardboard version",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"cardboard verion"
   },
   {
     "Expression":"7cdquri6ao http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co 7cdquri6ao http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co 7cdquri6ao",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"hunt http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"doodle hunt http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":3.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"hunt"
   },
   {
     "Expression":"mtrv7cggtm http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"doodle"
   },
   {
     "Expression":"co mtrv7cggtm http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co mtrv7cggtm",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"d�vlies > http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"van d�vlies"
   },
   {
-    "Expression":"van d�vlies >",
-    "Expression count":2,
+    "Expression":"van d�vlies",
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"van d�vlies"
   },
   {
     "Expression":"gold van d�vlies",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"van d�vlies"
   },
   {
     "Expression":"cabinet gold van",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"cabinet gold van"
   },
   {
     "Expression":"cfo6kgqkzk http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co cfo6kgqkzk http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co cfo6kgqkzk",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":9.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"scared is back",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":10,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"scrared"
   },
   {
     "Expression":"i�m scared is",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":10,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"don�t hug me",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":10.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"don�t hug me"
   },
   {
     "Expression":"in the work",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":10.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":13.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"solsona > http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"solsona"
   },
   {
     "Expression":"pol solsona >",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":15.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"solsona"
   },
   {
     "Expression":"idced1smiq http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co idced1smiq http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co idced1smiq",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"printers baddeley brothers",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"printers baddeley brothers"
   },
   {
     "Expression":"specialist printers baddeley",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"printers baddeley brothers"
   },
   {
     "Expression":"awmowg9oum http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co awmowg9oum http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co awmowg9oum",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"zoruf9gzqr http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co zoruf9gzqr http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co zoruf9gzqr",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"duo elmgreen and",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"art duo elmgreen",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":16.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"art duo elmgreen"
   },
   {
     "Expression":"t co jpy93vlqq8",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":21.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"podcast http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":21.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"s podcast http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":21.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"jealouscurator s podcast",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":21.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"jealouscurator"
   },
   {
     "Expression":"on jealouscurator s",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":21.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"today",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":22.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"podcast today http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"the podcast today",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"is on the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"creativeunblock no",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":24.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"thank you",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":25.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"https t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":26,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"36am http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"36am http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 36am",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"34am http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"34am http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 34am",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":32.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"31am http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"31am http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 31am",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"29am http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"29am http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 29am",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":33.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"26pm http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"26pm http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 26pm",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"24pm http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"24pm http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 24pm",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":34.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"19pm http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"19pm http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 19pm",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":35.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"00pm http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":38.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"00pm http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":38.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"at 00pm",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":38.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"is one of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":41.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"life under water",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"life under water"
   },
   {
     "Expression":"adventures http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"adventures"
   },
   {
     "Expression":"of life under",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"beauty"
   },
   {
     "Expression":"beauty of life",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"beauty"
   },
   {
     "Expression":"exceptional beauty of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"beauty"
   },
   {
     "Expression":"the exceptional beauty",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"beauty"
   },
   {
     "Expression":"daily coolness man",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"daily coolness"
   },
   {
     "Expression":"daily coolness photographer",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":42.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"daily coolness"
   },
   {
     "Expression":"journey through space",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"journey through space"
   },
   {
     "Expression":"day journey through",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"day journey",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"of day",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"photos you probably",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"photos of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"shares photos of",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"moon photos you",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"astronaut shares photos",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"super moon photos",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"incredible super moon",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"female astronaut shares",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"most incredible super",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"first female astronaut",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"most incredible",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"super moon photos"
   },
   {
     "Expression":"wcth travel",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":44.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"if you want",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":51.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"world http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":60.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"g�ante metz",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"poitrine g�ante",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.7,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"une poitrine g�ante",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":64.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"in the world",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":65.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"golem_13 http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":65.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"chewbacca http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"avec chewbacca http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"charlie avec chewbacca",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"charlie avec chewbacca"
   },
   {
     "Expression":"est charlie avec",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"o� est charlie",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"un o� est",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"d un o�",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"lancement d un",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"via golem_13 http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":67.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"20h50 sur",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":68.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"soir 20h50",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":68.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"ce soir",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":68.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"ce soir"
   },
   {
     "Expression":"to change the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":70.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"kidexpo2015 http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":71,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"check out the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"art o mat",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":73.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"happy birthday",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":75.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"happy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":75.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"leibovitz http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":77.5,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"leibovitz"
   },
   {
     "Expression":"henri matisse",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":78.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"henri matisse"
   },
   {
     "Expression":"to be featured",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":84.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"thanks for the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":84.4,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"being in the",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"about being in",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":85.6,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"7x9uvjqm8v http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co 7x9uvjqm8v http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co 7x9uvjqm8v",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"xzkrvojd5p http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"co xzkrvojd5p http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co xzkrvojd5p",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"t co xzkrvojd5p",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":86.9,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"you don t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":87.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"it http t",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":90.3,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":""
   },
   {
     "Expression":"on the internet",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":94.8,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   },
   {
     "Expression":"shark today http",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   },
   {
     "Expression":"artsy shark today",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.1,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   },
   {
     "Expression":"on artsy shark",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   },
   {
     "Expression":"featured on artsy",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   },
   {
     "Expression":"are featured on",
-    "Expression count":2,
+    "count":2,
     "Frequency":"0%",
     "Prominence":96.2,
     "source":"twitter",
-    "category":"arts"
+    "category":"art",
+    "keyword":"artsy shark"
   }
 ]

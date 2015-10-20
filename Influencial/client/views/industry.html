@@ -2,27 +2,65 @@
 
       
     <div class="row" ng-controller="IndustryController as vm">
-          <div class="col-md-8">
-                <div class="panel panel-lined mb30">
+
+        <div class="col-md-8">
+
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h2 class="panel-title">The most influential bloggers in <span class="high-light">{{vm.industry}}</span></h2>
+                </div>
+                <div>
+
+                    <div class="panel-body clearfix">
+                        <div data-ng-repeat="influencer in vm.influencers">
+
+                            <a href="{{influencer.BlogUrl}}" target="_blank">
+                                <img src="images/{{influencer.image}}" class="img-thumbnail img-supersmall pull-left" alt=""/>
+                            </a>
+                        </div>
+                        </div>
+                    </div>
+            </div>
+
+            <div class="panel panel-lined mb30">
                     <div class="panel-heading">
                         <h3 class="panel-title">Twitter Followers/Following/Posts</h3>
                     </div>
                     <highchart config="vm.twitterChartConfig" class="chart-responsive"></highchart>
                 </div>
 
-            </div>
-        </div>
 
-    <div class="row" ng-controller="IndustryController as vm">
-        <div class="col-md-8">
-            <div class="panel panel-lined mb30">
-                <div class="panel-heading">
-                    <h3 class="panel-title">Instagram Followers/Following/Posts</h3>
-                </div>
-                <highchart config="vm.instagramChartConfig" class="chart-responsive"></highchart>
-            </div>
+              <div class="panel panel-lined mb30">
+                  <div class="panel-heading">
+                      <h3 class="panel-title">Instagram Followers/Following/Posts</h3>
+                  </div>
+                  <highchart config="vm.instagramChartConfig" class="chart-responsive"></highchart>
+              </div>
 
-        </div>
+              <div class="panel panel-lined mb30">
+                  <div class="panel-body">
+                      <div class="col-md-6">
+                          <tags title="Top Twitter Hashtags" hashtags="vm.twitterHashtags"></tags>
+                      </div>
+                      <div class="col-md-6">
+                          <tags title="Top Instragram Hashtags" hashtags="vm.instagramHashtags"></tags>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="panel panel-lined mb30">
+                  <div class="panel-heading">
+                      <h3 class="panel-title">Top Tweets Subject (via Text Analysis)</h3>
+                  </div>
+                  <highchart id="bubble-chart-container" config="vm.bubbleChartConfig" class="chart-responsive"></highchart>
+              </div>
+
+          
+          </div>
+    <div class="col-md-4">
+        <instagram-posts title="Recent Instagram Posts" posts="vm.instagramPosts"></instagram-posts>
+        <tweet-stream title="Recent Tweets" tweets="vm.tweets"></tweet-stream>
     </div>
-
+    
+    </div>
 </section>

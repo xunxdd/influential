@@ -102,21 +102,17 @@
     padding:5px;
 }
 
-.list-group-item.has-border {
-    border: 1px solid #ddd;
-}
-
-.instagram-desc{
-    background-color: #000;
-    bottom: 0;
-    color: #fff;
-    left: 10px;
-    opacity: 0.5;
-    position: absolute;
-    width: 50%;
-}
 
 .fix{
     width: 100%;
     padding: 5px;
+}
+
+.img-supersmall {
+    width:75px;
+    height:75px;
+}
+.high-light {
+    color: #fe3300;
+    font-size: larger;
 }
