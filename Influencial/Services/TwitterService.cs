@@ -22,10 +22,10 @@ namespace Influencial.Services
 {
     public class Twitterservice
     {
-        const string AccessToken = "2819849482-UC3WnlbPKfR0mXPwKiHPmLjRvHtntpT1EZAgsfa";
-        const string AccessTokenSecret = "SfMfrO7uKyGARKiIphSs7ywnmLmkRhgTVG5T4kUNaI8Nx";
-        const string TokenConsumerKey = "pmHwZOsfUGSfsvXcOGNw6CS3g";
-        const string TokenConsumerSecret = "EHGwTdje930TTA1uujsruCGcVrVvY6rIetHdzUMNQ9iQYaa7FL";
+        const string AccessToken = "20000ntpT1EZAgsfa";
+        const string AccessTokenSecret = "SfMfrO7uKyGARKiIphSs7ywnmLmkRhgTVG5T4kAAAAUANaI8Nx";
+        const string TokenConsumerKey = "pmHwZOsfUGSfsvXcOGNw6CAAAS3g";
+        const string TokenConsumerSecret = "EHGwTdje930TTA1uujsruAAACGcVrVvY6rIetHdzUMNQ9iQYaa7FL";
 
         
         public Twitterservice()
