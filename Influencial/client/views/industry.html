@@ -14,8 +14,8 @@
                     <div class="panel-body clearfix">
                         <div data-ng-repeat="influencer in vm.influencers">
 
-                            <a href="{{influencer.BlogUrl}}" target="_blank">
-                                <img src="images/{{influencer.image}}" class="img-thumbnail img-supersmall pull-left" alt=""/>
+                            <a ui-sref="influencerdetail({ id:{{influencer.Id}} })">
+                                <img src="images/{{influencer.image}}" class="img-thumbnail img-supersmall pull-left" alt="" />
                             </a>
                         </div>
                         </div>
