@@ -50,25 +50,29 @@ influential
             };
 
             service.getRecentTweets = function () {
-                return $resource("data/recenttweets.json");
+                return $resource("data/tweets.json");
             };
 
             service.getInstragramRecentPosts = function () {
-                return $resource("data/instagram-recentposts.json");
+                return $resource("data/instagram_posts.json");
             };
 
+            service.getUserTopics = function () {
+                return $resource("data/twittersubject-user.json");
+            };
             service.getMostRecentPostsByUsers = function (data, uids, dateField, dataField) {
-                var match = data.filter(function (itm) { return uids.indexOf(itm.username) >= 0 && itm[dataField]; });
+                var match = data.filter(function (itm) { return uids.indexOf(itm.UserName) >= 0 && itm[dataField]; });
                 sortArrayByDateTimeDescending(match, dateField);
                 return match && match.length ? match.splice(0, 10) : null;
             };
             service.getHashtagByUsers = function(data, uids, delimiter) {
-                var match = data.filter(function (itm) { return uids.indexOf(itm.username) >=0; });
+                var match = data.filter(function (itm) { return uids.indexOf(itm.UserName) >= 0; });
                 var hash = match.map(function(t) {
-                    return t.hashtags;
+                    return t.Hashtags;
                 });
                 return getCleanTags(hash, delimiter);
             }
+
             //only available on industry level 
             service.getKeywordsCount= function(data) {
                 return keywordsCount(data);
@@ -234,14 +238,12 @@ function getBubbleChartData(data) {
     sortArrayByNumberDescending(data);
     var sorted = data,
         i, l = sorted.length,
-        min = sorted[l - 1].count, max = sorted[0].count,
-        avg=(min+max)/l,
         chartData=[], x, y, z;
 
     for (i = 0; i < l; i++) {
         x = Math.floor((Math.random() * 1000) + 1);
         y = Math.floor((Math.random() * 10) + 1);
-        z = (data[i].count/2 * (avg));
+        z = (data[i].Score * 100);
         chartData.push({
             x: x,
             y: y,

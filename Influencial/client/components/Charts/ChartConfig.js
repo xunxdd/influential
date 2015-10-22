@@ -41,7 +41,12 @@
                 }
             },
             tooltip: {
-              enabled:false  
+                useHTML: true,
+                headerFormat: '<table>',
+                pointFormat: '<tr><th><h5>Topic: {point.name}</h5></th></tr>' +
+                    '<tr><td>Score: {point.z}</td></tr>',
+                footerFormat: '</table>',
+                followPointer: true
             },
             plotOptions: {
                 series: {

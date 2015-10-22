@@ -23,22 +23,22 @@
             var users = data.filter(function(u) {
                 return tHandles.indexOf(u.Handle) >= 0;
             });
-            vm.twitterChartConfig = getChartConfig(users, 'Handle', 'FollowerCount', 'FriendsCount', 'StatusCount');
+            vm.twitterChartConfig = getChartConfig(users, 'Handle', 'FollowersCount', 'FriendsCount', 'StatusesCount');
         });
 
         userDataService.getInstagramusers().query(function (data) {
             var users = data.filter(function (u) {
-                return iHandles.indexOf(u.Username) >= 0;
+                return iHandles.indexOf(u.UserName) >= 0;
             });
-            vm.instagramChartConfig = getChartConfig(users, 'Username', 'FollowedBy', 'Follows', 'Media');
+            vm.instagramChartConfig = getChartConfig(users, 'UserName', 'FollowBy', 'Follows', 'CountMedia');
         });
 
         subjectandTagService.getInstragramRecentPosts().query(function (data) {
-            vm.instagramPosts = subjectandTagService.getMostRecentPostsByUsers(data, iHandles, "createdtime", "thumbnail");
+            vm.instagramPosts = subjectandTagService.getMostRecentPostsByUsers(data, iHandles, "CreatedTime", "Thumbnail");
         });
 
         subjectandTagService.getRecentTweets().query(function (data) {
-            vm.tweets = subjectandTagService.getMostRecentPostsByUsers(data, tHandles, "createdtime", "tweettext");
+            vm.tweets = subjectandTagService.getMostRecentPostsByUsers(data, tHandles, "CreatedTime", "Text");
         });
 
         subjectandTagService.getRecentTweets().query(function (data) {
@@ -46,7 +46,7 @@
         });
 
         subjectandTagService.getInstragramRecentPosts().query(function (data) {
-            vm.instagramHashtags = subjectandTagService.getHashtagByUsers(data, iHandles, ",");
+            vm.instagramHashtags = subjectandTagService.getHashtagByUsers(data, iHandles, "|");
         });
 
         subjectandTagService.getTweetSubjects().query(function (data) {

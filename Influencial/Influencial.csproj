@@ -143,12 +143,9 @@
     <Content Include="client\css\font-awesome.css" />
     <Content Include="client\data\influencer.json" />
     <Content Include="client\data\instagram-recentposts.json" />
-    <Content Include="client\data\InstagramRecentPosts.txt" />
     <Content Include="client\data\instagramusers.json" />
     <Content Include="client\data\instragramsubject.json" />
-    <Content Include="client\data\message.json" />
     <Content Include="client\data\recenttweets.json" />
-    <Content Include="client\data\Tweets.json" />
     <Content Include="client\data\tweetsubject.json" />
     <Content Include="client\data\twitterusers.json" />
     <Content Include="client\images\Aime Song.jpg" />

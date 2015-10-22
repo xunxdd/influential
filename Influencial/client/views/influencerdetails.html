@@ -18,12 +18,12 @@
                                 <i class="icon icon-fw icon-avatar"></i>Screen Name: {{vm.twitterUser.ScreenName}}
                             </p>
                             <p class="ng-binding">
-                                <i class="icon icon-fw icon-email"></i> info@{{vm.twitterUser.Handle}}
+                                <i class="icon icon-fw icon-email"></i> {{vm.twitterUser.Description}}
                             </p>
                             <ul class="user-badges list-unstyled row">
                                 <li class="col-xs-4">
                                     <i class="fa fa-comment-o text-success"></i>
-                                    <strong>{{vm.twitterUser.FollowerCount}}</strong>
+                                    <strong>{{vm.twitterUser.FollowersCount}}</strong>
                                     <button class="btn btn-success btn-sm mt15">Followers</button>
                                 </li>
                                 <li class="col-xs-4">
@@ -33,7 +33,7 @@
                                 </li>
                                 <li class="col-xs-4">
                                     <i class="fa fa-twitter text-color"></i>
-                                    <strong>{{vm.twitterUser.StatusCount}}</strong>
+                                    <strong>{{vm.twitterUser.StatusesCount}}</strong>
                                     <button class="btn btn-primary btn-sm mt15">Total Tweets</button>
                                 </li>
                             </ul>
@@ -49,7 +49,7 @@
                         <div class="col-xs-9">
                             <h4 class="mb0"><i class="fa fa-instagram"></i>&nbsp;{{vm.instagramUser.FullName}} on Instagram</h4>
                             <p>
-                                <i class="icon icon-fw icon-avatar"></i>Instragram User Name: {{vm.instagramUser.Username}}
+                                <i class="icon icon-fw icon-avatar"></i>Instragram User Name: {{vm.instagramUser.UserName}}
                             </p>
                             <p>
                              Bio:   {{vm.instagramUser.Bio}}
@@ -57,7 +57,7 @@
                             <ul class="user-badges list-unstyled row">
                                 <li class="col-xs-4">
                                     <i class="fa fa-comment-o text-success"></i>
-                                    <strong>{{vm.instagramUser.FollowedBy}}</strong>
+                                    <strong>{{vm.instagramUser.FollowBy}}</strong>
                                     <button class="btn btn-success btn-sm mt15">Followers</button>
                                 </li>
                                 <li class="col-xs-4">
@@ -67,7 +67,7 @@
                                 </li>
                                 <li class="col-xs-4">
                                     <i class="fa fa-instagram text-color"></i>
-                                    <strong>{{vm.instagramUser.Media}}</strong>
+                                    <strong>{{vm.instagramUser.CountMedia}}</strong>
                                     <button class="btn btn-primary btn-sm mt15">Posts</button>
                                 </li>
                             </ul>
@@ -87,7 +87,7 @@
 
                 <div class="panel panel-lined mb30">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Buzzy buzzy words (data source: blog)</h3>
+                        <h3 class="panel-title">Buzzy buzzy words (via Twitter Text Analysis)</h3>
                     </div>
                     <highchart id="bubble-chart-container" config="vm.bubbleChartConfig" class="chart-responsive"></highchart>
                 </div>

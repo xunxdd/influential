@@ -15,7 +15,7 @@
                         <div data-ng-repeat="influencer in vm.influencers">
 
                             <a ui-sref="influencerdetail({ id:{{influencer.Id}} })">
-                                <img src="images/{{influencer.image}}" class="img-thumbnail img-supersmall pull-left" alt="" />
+                                <img src="images/{{influencer.image}}" class="img-thumbnail img-supersmall pull-left" alt="{{influencer.Name}}" />
                             </a>
                         </div>
                         </div>

@@ -7,13 +7,13 @@
             <div class="panel-body">
                 <div data-ng-repeat="tweet in tweets" class="itemdiv">
                     <div class="body">
-                        <div class="date-time"><i class="ace-icon fa fa-clock-o"></i>{{tweet.CreatedAt}}</div>
+                        <div class="date-time"><i class="ace-icon fa fa-clock-o"></i>{{tweet.CreatedTime}}</div>
                         <div class="text">
-                            {{tweet.tweettext}}
+                            {{tweet.Text}}
                         </div>
                         <div class="actions">
                             <a href="#"> <i class="fa fa-retweet"></i><span class="retweets">{{tweet.RetweetCount}} Retweets</span></a>
-                            <a href="#"><i class="fa fa-star"></i><span class="favorites">{{tweet.FavouriteCount}} Favorites</span></a>
+                            <a href="#"><i class="fa fa-star"></i><span class="favorites">{{tweet.FavCount}} Favorites</span></a>
                         </div>
                     </div>
                 </div>

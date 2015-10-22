@@ -282,26 +282,6 @@
     "image":"Arseny Vesnin.jpg"
   },
   {
-      "Id":29,
-    "Name":"journaldesign",
-    "Description":"journal design",
-    "Blog":"http://www.journal-du-design.fr/",
-    "TwitterHandle":"journaldesign",
-    "InstagramHandle":"",
-    "category":"Art",
-    "image":"journal design.jpg"
-  },
-  {
-      "Id":30,
-    "Name":"The jealous curator",
-    "Description":"A curator who is inspired (and just a tad jealous) of amazing contemporary art.",
-    "Blog":"http://www.thejealouscurator.com/blog/",
-    "TwitterHandle":"thejealouscurator",
-    "InstagramHandle":"thejealouscurator",
-    "category":"Art",
-     "image":"The jealous curator.jpg"
-  },
-  {
       "Id":31,
     "Name":"It's Nice That",
     "Description":"Championing creativity across the art aS design world",
