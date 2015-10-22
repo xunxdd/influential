@@ -2,16 +2,10 @@
 
 influential
     .service('influencerService', [
-        '$resource', function($resource) {
+        '$resource', function() {
             var service = this;
-            service.getInfluencer = function() {
-                var influencers = $resource("data/influencer.json");
-                return influencers;
-                // return 
-            };
-
             service.filterByCategory = function(list, category) {
-                return list.filter(function(itm) { return itm.category === category; });
+                return list.filter(function(itm) { return itm.Category === category; });
             };
 
             service.getInfluencerById = function(id) {

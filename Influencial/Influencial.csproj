@@ -141,7 +141,6 @@
     <Content Include="client\components\Tweets\Tweets.html" />
     <Content Include="client\css\app.css" />
     <Content Include="client\css\font-awesome.css" />
-    <Content Include="client\data\influencer.json" />
     <Content Include="client\data\instagramusers.json" />
     <Content Include="client\data\instragramsubject.json" />
     <Content Include="client\data\twitterusers.json" />
@@ -158,6 +157,7 @@
     <Content Include="client\images\Chiara Ferragni.jpg" />
     <Content Include="client\images\Daily Art Fixx.jpg" />
     <Content Include="client\images\DELIGHTFUL CRUMB.jpg" />
+    <Content Include="client\images\designmilk.jpg" />
     <Content Include="client\images\dinnerdelicious.png" />
     <Content Include="client\images\Dirk Petzold.png" />
     <Content Include="client\images\flags\Afghanistan.png" />
@@ -412,12 +412,15 @@
     <Content Include="client\images\Julie Sarinana.jpg" />
     <Content Include="client\images\Kristina Bazan.jpg" />
     <Content Include="client\images\logo.png" />
+    <Content Include="client\images\modernmet.png" />
     <Content Include="client\images\Nicole Warn.jpg" />
     <Content Include="client\images\RASA MALAYSIA.jpg" />
     <Content Include="client\images\Rumi Neely.jpg" />
+    <Content Include="client\images\streetartnews.jpg" />
     <Content Include="client\images\the first mess.jpg" />
     <Content Include="client\images\The jealous curator.jpeg" />
     <Content Include="client\images\The jealous curator.jpg" />
+    <Content Include="client\images\trendland.png" />
     <Content Include="client\images\We and the color.jpg" />
     <Content Include="client\images\Wendy Nguyen.jpg" />
     <Content Include="client\images\Where Cool Things Happen.jpg" />
