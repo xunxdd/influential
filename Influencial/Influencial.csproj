@@ -506,7 +506,6 @@
     <Content Include="client\bower_components\angular-resource\angular-resource.min.js.map" />
     <Content Include="client\data\instagram_posts.json" />
     <Content Include="client\data\tweets.json" />
-    <Content Include="client\data\twittersubject.json" />
     <Content Include="client\data\twittersubject-user.json" />
     <Content Include="client\data\tweetsubject.json" />
     <None Include="Web.Debug.config">
