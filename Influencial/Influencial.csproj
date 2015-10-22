@@ -142,11 +142,8 @@
     <Content Include="client\css\app.css" />
     <Content Include="client\css\font-awesome.css" />
     <Content Include="client\data\influencer.json" />
-    <Content Include="client\data\instagram-recentposts.json" />
     <Content Include="client\data\instagramusers.json" />
     <Content Include="client\data\instragramsubject.json" />
-    <Content Include="client\data\recenttweets.json" />
-    <Content Include="client\data\tweetsubject.json" />
     <Content Include="client\data\twitterusers.json" />
     <Content Include="client\images\Aime Song.jpg" />
     <Content Include="client\images\Alquimia Dos Tachos.jpg" />
@@ -507,6 +504,11 @@
     <Content Include="client\fonts\proxima-nova\proxima_nova_sbold-webfont.woff2" />
     <Content Include="client\bower_components\jquery\dist\jquery.min.map" />
     <Content Include="client\bower_components\angular-resource\angular-resource.min.js.map" />
+    <Content Include="client\data\instagram_posts.json" />
+    <Content Include="client\data\tweets.json" />
+    <Content Include="client\data\twittersubject.json" />
+    <Content Include="client\data\twittersubject-user.json" />
+    <Content Include="client\data\tweetsubject.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
