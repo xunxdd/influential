@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Influencial", "Influencial\Influencial.csproj", "{843F7458-2CC4-4042-9A24-1240074948A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Influential.Tests", "Influential.Tests\Influential.Tests.csproj", "{BEC7A060-5120-4C72-A874-98AF02D17F0E}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{843F7458-2CC4-4042-9A24-1240074948A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843F7458-2CC4-4042-9A24-1240074948A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843F7458-2CC4-4042-9A24-1240074948A9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BEC7A060-5120-4C72-A874-98AF02D17F0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEC7A060-5120-4C72-A874-98AF02D17F0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEC7A060-5120-4C72-A874-98AF02D17F0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEC7A060-5120-4C72-A874-98AF02D17F0E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
