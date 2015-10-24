@@ -49,15 +49,9 @@
             vm.instagramHashtags = subjectandTagService.getHashtagByUsers(data, iHandles, "|");
         });
 
-        subjectandTagService.getTweetSubjects().query(function (data) {
-            var industryData = data.filter(function(d) {
-                 return d.category.toLowerCase() == industry.toLowerCase();
-            });
-            var subjects = subjectandTagService.getKeywordsCount(industryData, industry);
-            var bubbleChartData = subjectandTagService.getBubblePos(subjects);
-            var dataSeries = [{
-                data: bubbleChartData
-            }];
+        subjectandTagService.getIndustryTopics().query(function (data) {
+           
+            var dataSeries = subjectandTagService.getBubbleData(data, industry);;
 
             vm.bubbleChartConfig = bubbleChartConfig.getConfig('Hot Words', dataSeries);
         });
