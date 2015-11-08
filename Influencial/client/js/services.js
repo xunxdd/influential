@@ -26,6 +26,16 @@
                 var match = users.filter(function(itm) { return itm[idField] && itm[idField] == id; });
                 return match && match.length ? match[0] : null;
             };
+            service.getUserStatsById = function (users, id, idField) {
+                var match = users.filter(function (itm) { return itm[idField] && itm[idField].toLowerCase() === id.toLowerCase(); });
+                return match && match.length ? match : null;
+            };
+            service.getTwitterUserStats = function () {
+                return $resource("data/twitteruserstats.json");
+            };
+            service.getInstagramUserStats = function () {
+                return $resource("data/instagramuserstats.json");
+            };
 
         }
     ])
@@ -72,7 +82,49 @@
             }
         }
      ])
-    
+    .service('trendChartService', function() {
+        var service = this;
+        service.getChartConfig= function(stats) {
+            var config = {
+                "options": {
+                    "chart": {
+                        "type": "areaspline"
+                    },
+                    "plotOptions": {
+                        "series": {
+                            "stacking": ""
+                        }
+                    }
+                },
+                xAxis: {
+                    categories: []
+                },
+                series: [],
+                title: {
+                    text: ''
+                }
+            };
+            var series = [], i, l = stats.length;
+            var seriesPosts = { id: 1, data: [], name: '# Posts', "type": "spline" };
+            var seriesFollowers = { id: 2, data: [], name: '# Followers', "type": "spline"};
+            var seriesFollowing = { id: 3, data: [], name: '# Following', "type": "spline" };
+            var categories = [];
+            for (i = 0; i < l; i++) {
+
+                var stat = stats[i];
+                var timeStamp = new Date(stat.TimeStamp);
+                categories.push(timeStamp.getMonth() + "/" + timeStamp.getDate());
+                seriesPosts.data.push([stat.PostCount]);
+                seriesFollowers.data.push([stat.FollowerCount]);
+                seriesFollowing.data.push([stat.FollowCount]);
+            }
+            config.xAxis.categories = categories;
+            //config.series.push(seriesPosts);
+            config.series.push(seriesFollowers);
+            //config.series.push(seriesFollowing);
+            return config;
+        }
+    })
     .service('mapService', function() {
         var style = {
             "styledMapName": "tbs",

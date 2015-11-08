@@ -94,14 +94,18 @@
 
                 <div class="panel panel-lined mb30">
                     <div class="panel-heading">
-                        <h3 class="panel-title">Where are the followers?</h3>
+                        <h3 class="panel-title">Tweitter Follower Trend</h3>
                     </div>
-                    
-                    <div id="tbs-map" style="position: relative; overflow: hidden; transform: translateZ(0px); background-color: rgb(229, 227, 223);">
-                    </div>
+                    <highchart id="trend-chart-container" config="vm.trendTwitterChartConfig " class="chart-responsive"></highchart>
                 </div>
 
-           
+                <div class="panel panel-lined mb30">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Instagram Follower Trend</h3>
+                    </div>
+                    <highchart id="trend-chart-container" config="vm.trendInstagramChartConfig " class="chart-responsive"></highchart>
+                </div>
+
                 </div>
             <div class="col-md-4">
                     <instagram-posts title="Recent Instagram Posts" posts="vm.instagramPosts"></instagram-posts>

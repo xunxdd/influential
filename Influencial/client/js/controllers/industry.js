@@ -3,10 +3,14 @@
         influencerService, userDataService, bubbleChartConfig,subjectandTagService) {
         var vm = this,
             art = "Art", fashion = "Fashion", food = "Food",
+            photography='photography', humor='humor', beauty='beauty', 
             industries= {
                 1: fashion,
                 2: food,
-                3:art
+                3: art,
+                4: photography,
+                5: beauty,
+                6: humor
             },
             industry =industries[$stateParams.id || 1],
             influencers = influencerService.filterByCategory(window.allInfluencers, industry),
